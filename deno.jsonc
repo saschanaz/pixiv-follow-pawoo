@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "token": "deno run --allow-read --allow-write --allow-net token.js",
+    "followings": "deno run --allow-net --allow-write followings.js",
+    "pawoo": "deno run --allow-net --allow-write pawoo.js"
+  },
+  "compilerOptions": {
+    "strict": false
+  }
+}
